@@ -3,7 +3,7 @@ import time
 import nltk
 from nltk.corpus import words
 
-# Download the nltk words corpus if not already downloaded
+
 nltk.download('words')
 word_list = words.words()
 
